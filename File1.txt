@@ -1,2 +1,5 @@
-// det här är en textfil som vi ska fylla med namn
-
+﻿// det här är en textfil som vi ska fylla med namn
+Nu ändrar jag lite här....
+Bob
+Jen
+Hank
